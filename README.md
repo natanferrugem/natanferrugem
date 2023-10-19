@@ -1,3 +1,3 @@
- Hi there!! my name's natan 🤠
+### Hi there!! my name's natan 🤠
 
-- i'm a programming student on web programming
+- i'm a web programming student
